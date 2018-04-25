@@ -6,3 +6,4 @@ languages:
   - SQL
 resources:
   - 0
+parent_template: git@github.com:learn-co-curriculum/orm-mapping-to-table-lab.git
