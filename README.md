@@ -58,4 +58,7 @@ Use bound paremeters to pass the given student's name and grade into the SQL sta
 
 This is a class method that uses keyword arguments. The keyword arguments are `name:` and `grade:`. Use the values of these keyword arguments to: 1) instantiate a new `Student` object with `Student.new(name, grade)` and 2) save that new student object via `student.save`. The `#create` method should return the student object that it creates. 
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-orm-mapping-to-table-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-orm-mapping-to-table-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG ORM Mapping Classes to Tables Lab</p>
